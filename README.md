@@ -1,2 +1,2 @@
 # hxst
-hello, worl! 
+hello, world！
